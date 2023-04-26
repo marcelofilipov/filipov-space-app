@@ -1,7 +1,3 @@
-<h1 align="center">
-    <img alt="Firebase-Firestore" title="#Firebase-Firestore" src=".images/header.png" width="100%" />
-</h1>
-
 <!-- https://alura-github-thumbnail-generator.vercel.app/ -->
 
 <h4 align="center"> 
@@ -18,7 +14,7 @@
 
 O SpaceApp é uma aplicação feita em React Native que permite aos usuários entusiastas sobre astronomia salvarem fotos e informações sobre o espaço. Nessa aplicação foi integrado o Firebase Cloud Storage para que os usuários possam cadastrar vários posts sobre coisas de astrônima em nuvem.
 
-Esse projeto é utilizado na formação Firebase de React Native da plataforma da Alura.
+Projeto educacional criado na formação Firebase de React Native da plataforma da Alura.
 
 
 <h1 align="center">
@@ -42,10 +38,10 @@ No terminal, digite os comandos a seguir:
 
 ```bash
 # Clonar esse repositório
-$ git clone https://github.com/alura-cursos/react-native-firebase-storage.git
+$ git clone https://github.com/marcelofilipov/filipov-space-app.git
 
-# Vá para o ropositório
-$ cd react-native-firebase-storage
+# Vá para o repositório
+$ cd filipov-space-app
 
 # Instale as dependências
 $ npm install
@@ -59,8 +55,6 @@ $ npx expo start
 ```
 
 
-
-Espero que você utilize ao máximo deste projeto para se aprimorar! E se quiser dar um salve, estou lá no LinkedIn [André Oliveira Cunha](https://www.linkedin.com/in/andr%C3%A9-oliveira-cunha-b26b3a156/). :wave: 
 
 [nodejs]: https://nodejs.org/
 [expo]: https://docs.expo.dev/
